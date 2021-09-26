@@ -1,16 +1,17 @@
-# jaintvn
+# Micro Portfolio - Flutter Web
 
-My Profile
+This is to create a simple micro portfolio website contains Social media links and contact information.
+This repo simply created for personal use and later open sourced it.
 
-## Getting Started
+<b>Demo<b> : https://vnjaint.web.app
 
-This project is a starting point for a Flutter application.
+  ## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Social Media link/app redirection
+- Whatsapp deep link integration
+- Rive animation setup
+- Mobile friendly design
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="741" alt="Screenshot 2021-09-26 at 2 05 00 PM" src="https://user-images.githubusercontent.com/33921519/134800262-3a31e0e6-eb21-4a0e-978c-1a7afc5b9f9b.png">
+  
+  
