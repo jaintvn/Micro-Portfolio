@@ -1,4 +1,4 @@
-# Micro Portfolio - Flutter Web
+# Bio Link- Flutter Web
 
 This is to create a simple micro portfolio website contains Social media links and contact information.
 This repo simply created for personal use and later open sourced it.
