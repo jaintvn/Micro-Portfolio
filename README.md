@@ -1,7 +1,6 @@
 # Bio Link- Flutter Web
 
-This is to create a simple micro portfolio website contains Social media links and contact information.
-This repo simply created for personal use and later open sourced it.
+A simple micro portfolio website containing links to social media and contact information. This repo was created for personal use, but then open sourced.
 
 <b>Demo<b> : https://vnjaint.web.app
 
